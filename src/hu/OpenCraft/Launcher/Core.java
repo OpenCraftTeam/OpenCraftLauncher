@@ -3,11 +3,11 @@ package hu.OpenCraft.Launcher;
 public class Core {
 
 	/**
-	 * @param args
+	 * 
+	 * @author Gerviba, Goofre
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		//TODO
 	}
 
 }
